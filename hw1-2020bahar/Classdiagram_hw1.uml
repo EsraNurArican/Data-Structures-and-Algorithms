@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="434.24999999999994" y="0.0">CargoCompany.CargoCompanyUsers</node>
+    <node x="591.0" y="404.0">CargoCompany.TransportationPersonnel</node>
+    <node x="868.0" y="317.0">CargoCompany.BranchEmployee</node>
+    <node x="0.0" y="675.0">CargoCompany.Shipment</node>
+    <node x="298.0" y="675.0">CargoCompany.Main</node>
+    <node x="206.99999999999994" y="273.0">CargoCompany.Administrator</node>
+    <node x="0.0" y="404.0">CargoCompany.Customer</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="CargoCompany.TransportationPersonnel" target="CargoCompany.CargoCompanyUsers">
+      <point x="0.0" y="-47.5" />
+      <point x="719.5" y="253.0" />
+      <point x="584.25" y="253.0" />
+      <point x="30.0" y="111.5" />
+    </edge>
+    <edge source="CargoCompany.BranchEmployee" target="CargoCompany.CargoCompanyUsers">
+      <point x="-5.6843418860808015E-14" y="-134.5" />
+      <point x="1011.4999999999999" y="243.0" />
+      <point x="644.25" y="243.0" />
+      <point x="90.0" y="111.5" />
+    </edge>
+    <edge source="CargoCompany.Customer" target="CargoCompany.CargoCompanyUsers">
+      <point x="0.0" y="-47.5" />
+      <point x="93.5" y="243.0" />
+      <point x="464.24999999999994" y="243.0" />
+      <point x="-90.0" y="111.5" />
+    </edge>
+    <edge source="CargoCompany.Administrator" target="CargoCompany.CargoCompanyUsers">
+      <point x="0.0" y="-178.5" />
+      <point x="388.99999999999994" y="253.0" />
+      <point x="524.25" y="253.0" />
+      <point x="-30.0" y="111.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6088652482269503" x="602.0" y="451.3686662783926" />
+  <SelectedNodes>
+    <node>CargoCompany.Shipment</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>packageLocal</VISIBILITY>
+</Diagram>
+
