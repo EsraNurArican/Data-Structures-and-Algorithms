@@ -1,0 +1,19 @@
+Programs
+You probably have some idea of what a program is. You use programs all
+the time. For example, text editors and word processors are programs. As we
+mentioned earlier, a program is simply a set of instructions for a computer
+to follow. When you give the computer a program and some data and tell
+the computer to follow the instructions in the program, you are running, or
+executing, the program on the data.
+Figure 1.2 shows two ways to view the running of a program. To see the
+first way, ignore the dashed lines and blue shading that form a box. What’s left
+is what really happens when you run a program. I n this view, the computer
+has two kinds of input. The program is one kind of input; it contains the
+instructions that the computer will follow. The other kind of input is the data
+for the program. I t is the information that the computer program will process.
+For example, if the program is a spelling-check program, the data would
+be the text that needs to be checked. As far as the computer is concerned,
+both the data and the program itself are input. The output is the result—or
+results produced when the computer follows the program’s instructions. I f
+the program checks the spelling of some text, the output might be a list of
+words that are misspelled.

@@ -1,0 +1,2 @@
+Trying to read short file.
+Data Structures and Algorithms lecture hw3 testing.
