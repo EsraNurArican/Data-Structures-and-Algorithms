@@ -1,0 +1,4 @@
+Merge Sort Run times for random arrays (180000element) : 
+75ms 74ms 71ms 73ms 65ms 65ms 74ms 90ms 92ms 81ms 80ms 81ms 76ms 75ms 85ms 75ms 81ms 81ms 83ms 73ms 
+Merge Sort Run times for sorted array (180000 element): 
+48ms 

@@ -1,0 +1,4 @@
+Bubble Sort Run times for 20 random arrays with size of:180000
+339072ms 344352ms 332286ms 342324ms 332895ms 378978ms 389177ms 390115ms 450950ms 419207ms 392037ms 414485ms 423115ms 384828ms 358372ms 378091ms 353426ms 357906ms 375963ms 362080ms 
+Bubble Sort Run times for sorted array with size of:180000 
+10ms 

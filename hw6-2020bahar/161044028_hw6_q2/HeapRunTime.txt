@@ -1,0 +1,4 @@
+Heap Sort Run times for random arrays (180000element) : 
+114ms 121ms 111ms 115ms 108ms 114ms 110ms 167ms 113ms 117ms 119ms 116ms 113ms 125ms 121ms 127ms 122ms 120ms 114ms 115ms 
+Heap Sort Run time for sorted array with size of:180000
+139ms 

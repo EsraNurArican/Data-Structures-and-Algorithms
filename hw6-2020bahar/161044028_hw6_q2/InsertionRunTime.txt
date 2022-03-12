@@ -1,0 +1,4 @@
+Insertion Sort Run times for random arrays (180000element) : 
+122294ms 131724ms 135376ms 120897ms 112836ms 119304ms 110883ms 119899ms 118243ms 112234ms 118419ms 119116ms 120974ms 120328ms 128189ms 130699ms 120659ms 121529ms 118752ms 119802ms 
+Insertion Sort Run times for sorted array (180000 element): 
+14ms 
